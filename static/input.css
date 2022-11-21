@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, cyan, rgb(103, 226, 248), rgb(252, 88, 230), #cb91f1);
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  margin-top: 30px;
+  border-radius: 10px;
+  border-radius: 1em;
+  box-shadow: 0 0.188em 1.55em #b8d9f0;
+  align-items: center;
+}
+
+.container h2 {
+  margin:35px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.btn {
+  width: 85px;
+  height: 35px;
+}
